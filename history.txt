@@ -1,0 +1,28 @@
+    1  pwd
+    2  cd /
+    3  ls
+    4  ls
+    5  cd linux
+    6  ls
+    7  cd linux
+    8  ls
+    9  ls -l
+   10  git status
+   11  git log
+   12  cd .git
+   13  rm -rf *
+   14  cd ..
+   15  rmdir .git
+   16  cd ..
+   17  rmdir linux
+   18  cd ..
+   19  rmdir linux
+   20  exit
+   21  pwd
+   22  cd d:
+   23  mkdir gitrepo
+   24  clear
+   25  cd gitrepo
+   26  git init
+   27  git status
+   28  history > history.txt
