@@ -1,28 +1,72 @@
-    1  pwd
-    2  cd /
-    3  ls
-    4  ls
-    5  cd linux
-    6  ls
-    7  cd linux
-    8  ls
-    9  ls -l
-   10  git status
-   11  git log
-   12  cd .git
-   13  rm -rf *
-   14  cd ..
-   15  rmdir .git
-   16  cd ..
-   17  rmdir linux
-   18  cd ..
-   19  rmdir linux
-   20  exit
-   21  pwd
-   22  cd d:
-   23  mkdir gitrepo
-   24  clear
-   25  cd gitrepo
-   26  git init
-   27  git status
-   28  history > history.txt
+    1  ls
+    2  sudo 
+    3  isudo -r
+    4  sudo -i
+    5  cls
+    6  clear
+    7  pwd
+    8  git -v
+    9  git add
+   10  cls
+   11  clear
+   12  print "Hello"
+   13  clear
+   14  title Shell
+   15  clear
+   16  dir
+   17  cd
+   18  cd :D
+   19  cd :D။
+   20  c;ခ်
+   21  clear
+   22  cd /:D
+   23  exit
+   24  cleAR
+   25  ခူ်
+   26  CLEAR
+   27  GIT -V
+   28  ping 192.168.0.1
+   29  ping 192.168.0.1 -t
+   30  color a
+   31  color a
+   32  exit
+   33  git -v
+   34  git -pwd
+   35  git pwd
+   36  git --help
+   37  cls
+   38  clear
+   39  exit
+   40  ls
+   41  d:
+   42  cd d:
+   43  ls
+   44  cd git
+   45  ls
+   46  git init
+   47  ls
+   48  git status
+   49  git add --all
+   50  git status
+   51  git commit -m 1500.cpp
+   52   status
+   53  git status
+   54  git commint -m
+   55  git commint -m "adding 1500.cpp"
+   56  git commit -m "adding 1500.cpp"
+   57  git statsu
+   58  git status
+   59  git log
+   60  git commit -m "adding 1500.cpp"
+   61  git comfig --global user.email "yelinn.info@gmail.com"
+   62  git config --global user.email "yelinn.info@gmail.com"
+   63  git config --global user.name "yelinzaw"
+   64  git commit -m "adding 1500.cpp"
+   65  git log
+   66  git remot add origin 
+   67  git remot add origin https://github.com/yelinzaw/test.git
+   68  git remote add origin https://github.com/yelinzaw/test.git
+   69  git pull origin master
+   70  ls
+   71  git push -u origin master
+   72  history >history.txt
